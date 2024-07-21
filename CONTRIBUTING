@@ -1,0 +1,49 @@
+This is the Common Sense Documentation Contributor Agreement:
+
+0) Venues:
+   Contributions = https://github.com/csdexter/coredump/pulls
+   Discussions/Proposals = https://github.com/csdexter/coredump/issues
+
+1) You have to accept and abide by these terms if you wish to submit any
+   contributions to the documentation in your own name.
+2) The author has the final say on whether your contribution will be accepted
+   or not, in part or in whole, in the original form authored by you or in an
+   altered form created by the author.
+   2a) You have the right to due process and the author will endeavor to
+       perform a thorough review of all contributions before making a decision.
+   2b) If (a) changes are deemed necessary by the author to your contribution
+       or (b) the author intends to reject your contribution outright, the
+       author will provide objective justification for their actions.
+   2c) The response SLA governing the processing of submitted contributions is
+       one business day, as it applies in the respective locales of the author
+       and the contributor.
+3) Credit for any accepted contribution works like so:
+   3a) You may elect to forward your suggestions to the author and not make the
+       contribution in your own name. In this case, you may elect to (a) be
+       credited without reference to the nature of your contribution or (b) not
+       be credited at all (i.e. make an anonymous contribution).
+   3b) You may elect make the contribution in your name. In this case, you may
+       elect to (a) be credited with a full reference to the nature of your
+       contribution or (b) not be credited at all (i.e. make an anonymous
+       contribution).
+   3c) Crediting applies to the Credits chapter of the documentation. Various
+       systems and instrumentation may keep a (possibly public) record of who
+       proposed what regardless of the final contents of said chapter.
+   3d) If, as part of its organic evolution, a fragment of the documentation
+       which represents a previously accepted contribution is subsequently
+       completely removed, the corresponding credit will endure.
+4) All accepted contributions become part of the documentation and any
+   rights that may have been associated with them pass to the author, with the
+   sole exception of the right to be credited, if made use of, according to 3b)
+   above.
+5) In order to be considered for inclusion, a contribution must:
+   5a) be written in the academic style of the language of the documentation
+       version involved. This includes textbook-perfect spelling, grammar and
+       syntax as a matter of course.
+   5b) be on point with the issue discussed at its proposed insertion point in
+       the documentation.
+   5c) be authored by an entity posessing a degree and a kind of generic
+       intelligence similar to that usually encountered amongst the members of
+       Homo sapiens (i.e. ChatGPT is just not good enough).
+   5d) represent a valuable addition to or amendment of the documentation as a
+       whole.
