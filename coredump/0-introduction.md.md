@@ -10,7 +10,7 @@ I'm writing this text having gotten to the age when I have the answer to the ult
 
 ## Structure
 
-This is written similarly to a law, with titles and articles, in an attempt to (a) organize it and (b) make back-references easier to implement both on- and off-line. It is my belief laws cannot ever represent a situation exactly because (a) language is never that precise and (b) it would be unworkable to have a law written for every particular instance. As a result, I believe laws should alwa
+This is written similarly to a law, with titles and articles, in an attempt to (a) organize it and (b) make back-references easier to implement both on- and off-line. It is my belief laws cannot ever represent a situation exactly because (a) language is never that precise and (b) it would be unworkable to have a law written for every particular instance. As a result, I believe laws should always be accompanied by an interpretation -- whether that is authored side-by-side at the time the law written and adopted or later on, after the law comes into effect, is irrelevant as long as the culture of having both the normative text and the "key" when judging endures.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDI4NTE1NjldfQ==
+eyJoaXN0b3J5IjpbLTEyMjE3MTY3MzNdfQ==
 -->
