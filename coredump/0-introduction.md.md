@@ -19,7 +19,8 @@ This is the best version I could come up with at the time of publishing. I don't
 ## Rules of engagement
 
 This is meant as an academic discourse and I will hold any communication related to this text to the same standard. Any interaction which is clearly headed out of the vernacular straight into the vulgar will be ignored and removed on sight without notice and without explanation (this paragraph is your explanation). The same treatment will be applied to any instances of *ad hominem*.
-
+Please remember you're reading this text off the Internet, not as part of a news bulletin on your national TV station. If you don't like what you're reading, simply close the browser window -- it's easier and cheaper.
+Repeat offenders will be 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczOTcxMzk2MywxNjU1NTg2MTA4XX0=
+eyJoaXN0b3J5IjpbMTU1MjgzOTA5OSwxNjU1NTg2MTA4XX0=
 -->
