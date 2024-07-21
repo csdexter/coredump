@@ -18,7 +18,7 @@ Normative text will be in `monospace` and article numbering will use the format 
 
 Interpretation commentary/key will be in *italic* and article numbering will use the format `I<number>`.
 
-Introductory/context text will be in regular face 
+Introductory/context text will be in regular face and article numbering will use the `I, 1, a, i` numbered list style.
 
 ## Bona fide
 
@@ -32,5 +32,5 @@ Please remember you're reading this text off the Internet, not as part of a news
 
 Finally, there are multiple copies of this document and it is always (re)published (when updated) in multiple places. Further digital and hard copies are periodically forwarded to various news outlets with precise instructions to publish in its entirety should anything happen to one of the regular publishing places. Engaging in a take-down campaign will consume an inordinate amount of your resources and ultimate fail to achieve your goal.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc0MjA3MTgwLDE2NTU1ODYxMDhdfQ==
+eyJoaXN0b3J5IjpbMTkxOTExNDg1MywxNjU1NTg2MTA4XX0=
 -->
