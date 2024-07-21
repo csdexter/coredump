@@ -19,6 +19,7 @@ This is the best version I could come up with at the time of publishing. I don't
 ## Rules of engagement
 
 This is meant as an academic discourse and I will hold any communication related to this text to the same standard. Any interaction which is clearly headed out of the vernacular straight into the vulgar will be ignored and removed on sight without notice and without explanation (this paragraph is your explanation).
+The same treatment will be applied to ad hominem/ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1NTU4NjEwOF19
+eyJoaXN0b3J5IjpbNzQ1ODM3MjUxLDE2NTU1ODYxMDhdfQ==
 -->
