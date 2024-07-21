@@ -14,7 +14,11 @@ This is written similarly to a law, with titles and articles, in an attempt to (
 
 ## Bona fide
 
-This is the best version I could come up with at the time of publishing. I don't purport to be an expert in everything and I'm also subject to error. If you see something objectively wrong, that doesn't make sense or that you think can provide a
+This is the best version I could come up with at the time of publishing. I don't purport to be an expert in everything and I'm also subject to error. If you see something objectively wrong, that doesn't make sense or that you think can provide a better version of, do please send in a contribution (see `CONTRIBUTIONS` in the root folder).
+
+## Rules of engagement
+
+This is meant as an academic discourse and I will hold any communication related to this text to the same standard. Any interaction
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTU4NDExODldfQ==
+eyJoaXN0b3J5IjpbMjA1MzM5NzM5OF19
 -->
