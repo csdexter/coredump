@@ -1,7 +1,15 @@
+# The Concept of Freedom
+## Context
 
+I) sdlksjdshfa
 
+I) ddsfs
 
-> Written with [StackEdit](https://stackedit.io/).
+1.
+
+story
+*interpretation*
+`law`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTAxNDYzNzMxXX0=
 -->
