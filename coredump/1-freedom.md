@@ -2,7 +2,8 @@
 <ol type="I">
 <li>Measuring freedom.</li>
 <ol>
-<ol
+<li>The concept of freedom is frequently discussed in human civilization. While some cases of freedom are clear cut (e.g. slavery in 
+</ol>
 <li>
 </ol>
 
@@ -11,5 +12,5 @@ story
 *interpretation*
 `law`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0Njk0NDc2XX0=
+eyJoaXN0b3J5IjpbMTMxNzU5NjQ2OF19
 -->
