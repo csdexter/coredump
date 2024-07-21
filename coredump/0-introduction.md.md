@@ -14,7 +14,7 @@ This is written similarly to a law, with titles and articles, in an attempt to (
 
 ## Bona fide
 
-This 
+This is the best version I could come up with at the time of publishing. I don't purport to be an expert in everything and I'm also subject to error. If you see something objectively wrong, that doesn't make sense or that you think can provide a
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDEwMzM5NTUwXX0=
+eyJoaXN0b3J5IjpbLTE0MTU4NDExODldfQ==
 -->
