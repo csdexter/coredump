@@ -2,7 +2,7 @@
 
 ## Dedication
 
-To every good person I've ever met. To every professional I've had the privilege to witness at work. To A.P. 
+To every good person I've ever met. To every professional I've had the privilege to witness at work. To A.P. for being a living example "astoundingly smart" doesn't have to come bundled with "weird". To S. fo
 
 ## Motivation
 
@@ -13,5 +13,5 @@ I'm writing this text having gotten to the age when I have the answer to the ult
 
 This is written similarly to a law, with titles and articles, in an attempt to (a) organize it and (b) make back-references easier to implement both on- and off-line.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTY5MjM5MTBdfQ==
+eyJoaXN0b3J5IjpbNjI0NTU1ODY5XX0=
 -->
