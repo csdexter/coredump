@@ -12,7 +12,9 @@ I'm writing this text having gotten to the age when I have the answer to the ult
 
 This is written similarly to a law, with titles and articles, in an attempt to (a) organize it and (b) make back-references easier to implement both on- and off-line. It is my belief laws cannot ever represent a situation exactly because (a) language is never that precise and (b) it would be unworkable to have a law written for every particular instance. As a result, I believe laws should always be accompanied by an interpretation -- whether that is authored side-by-side at the time the law was written and adopted or later on, after the law comes into effect, is irrelevant as long as the culture of having both the normative text and the "reading key" when judging endures.
 
-## Typograp
+## Typographical conventions
+
+Normative text will be in `monospace` and article numbering will 
 
 ## Bona fide
 
@@ -26,5 +28,5 @@ Please remember you're reading this text off the Internet, not as part of a news
 
 Finally, there are multiple copies of this document and it is always (re)published (when updated) in multiple places. Further digital and hard copies are periodically forwarded to various news outlets with precise instructions to publish in its entirety should anything happen to one of the regular publishing places. Engaging in a take-down campaign will consume an inordinate amount of your resources and ultimate fail to achieve your goal.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxMjY5MjQyLDE2NTU1ODYxMDhdfQ==
+eyJoaXN0b3J5IjpbMTYwNTA2MTAzNiwxNjU1NTg2MTA4XX0=
 -->
