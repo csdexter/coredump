@@ -22,7 +22,7 @@ This is meant as an academic discourse and I will hold any communication related
 
 Please remember you're reading this text off the Internet, not as part of a news bulletin on your national TV station. If you don't like what you're reading, simply close the browser window -- it's easier and cheaper.
 
-Finally, there are multiple copies of this document and it is always (re)published (when updated) in multiple places. Further off
+Finally, there are multiple copies of this document and it is always (re)published (when updated) in multiple places. Further digital and hard copies are periodically forwarded to various news outlets with precise instructions to publish in its entirety should anything happen to one of the regular publishing places.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2MzY2NzA0NywxNjU1NTg2MTA4XX0=
+eyJoaXN0b3J5IjpbMTU2NjE2NDkzNSwxNjU1NTg2MTA4XX0=
 -->
