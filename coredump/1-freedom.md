@@ -1,7 +1,6 @@
 # The Concept of Freedom
 ## Context
 
-I) sdlksjdshfa
 
 I) ddsfs
 
@@ -11,5 +10,5 @@ story
 *interpretation*
 `law`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNDYzNzMxXX0=
+eyJoaXN0b3J5IjpbMTg4ODk4MTYyXX0=
 -->
