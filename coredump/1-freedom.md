@@ -1,8 +1,8 @@
 # The Concept of Freedom
-## Context
-
 <ol type="I">
-<li>sdkljfhsf</li>
+<li>Measuring freedom.</li>
+<ol>
+<ol
 <li>
 </ol>
 
@@ -11,5 +11,5 @@ story
 *interpretation*
 `law`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjczNTkzMDgzXX0=
+eyJoaXN0b3J5IjpbMjA0Njk0NDc2XX0=
 -->
